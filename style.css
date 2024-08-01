@@ -1,0 +1,21 @@
+body {
+	background-image: url("koyuki.jpg");
+	background-repeat: no-repeat;
+	background-size: 100vw 100vh;
+}
+
+#koyukiball {
+	position: absolute;
+	left: calc(50% - 150px);
+	bottom: calc(50% - 150px);
+}
+
+#counter {
+	font-family: 'Comic Sans MS', sans-serif;
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	width: 100%;
+	position: absolute;
+	bottom: calc(50% + 100px);
+}
