@@ -1,7 +1,7 @@
 body {
 	background-image: url("koyuki.jpg");
-	background-repeat: no-repeat;
 	background-size: 100vw 100vh;
+	font-family: 'Comic Sans MS', sans-serif;
 }
 
 #koyukiball {
@@ -12,11 +12,10 @@ body {
 }
 
 #counter {
-	font-family: 'Comic Sans MS', sans-serif;
 	text-align: center;
 	font-weight: bold;
 	font-size: 30px;
-	width: 99.5%;
+	width: 99%;
 	position: absolute;
-	bottom: calc(50% + 100px);
+	bottom: calc(50% + 110px);
 }
